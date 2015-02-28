@@ -1,0 +1,28 @@
+{
+  "name": "TODOMVC-Ember",
+  "version": "1.0.0",
+  "description": "TODO MVC App for Ember",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diokey/TODOMVC-Ember.git"
+  },
+  "keywords": [
+    "ember",
+    "javascript",
+    "MVC"
+  ],
+  "author": "diokey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diokey/TODOMVC-Ember/issues"
+  },
+  "homepage": "https://github.com/diokey/TODOMVC-Ember"
+}
