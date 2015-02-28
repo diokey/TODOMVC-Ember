@@ -1,0 +1,21 @@
+{
+  "name": "TODOMVC-Ember",
+  "version": "0.0.0",
+  "homepage": "https://github.com/diokey/TODOMVC-Ember",
+  "authors": [
+    "Olivier Dusabimana <diokeyolivier@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember-data": "1",
+    "ember": "~1.10.0",
+    "handlebars": "~3.0.0"
+  }
+}
