@@ -18,5 +18,10 @@ Todos.Todo.FIXTURES = [
     id : 3,
     title : 'Profit!',
     isCompleted : false
+  },
+  {
+    id : 4,
+    title : 'Ice Skating',
+    isCompleted : false
   }
 ];
