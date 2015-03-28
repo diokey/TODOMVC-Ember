@@ -1,7 +1,7 @@
 # Example
 
 This README outlines the details of collaborating on this Ember application.
-This project contains some experiments to get unconventional json data to work with ember model
+This project contains some experiments to get unconventional json data to work with ember.js model
 
 ## Prerequisites
 
