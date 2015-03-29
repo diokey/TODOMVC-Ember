@@ -1,0 +1,21 @@
+<h2>Medicines</h2>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Recommended Dosage</th>
+    <th>Active</th>
+  </tr>
+  {{#each medicine in model}}
+  <tr>
+      <td>{{medicine.name}}</td>
+      <td>{{medicine.recommendedDosage}}</td>
+      <td>{{medicine.active}}</td>
+  </tr>
+  {{/each}}
+</table>
+
+Total pages : {{pagingAndSorting.fullListSize}} <br />
+
+Ascending : {{pagingAndSorting.ascending}} <br />
+Page Size : {{pagingAndSorting.pageSize}} <br />
+Page Number :  {{pagingAndSorting.pageNumber}}
