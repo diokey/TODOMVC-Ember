@@ -43,5 +43,10 @@ module.exports = function(environment) {
 
   }
 
+  ENV.contentSecurityPolicy = {
+    'connect-src': "http://localhost:3000"
+  };
+
+
   return ENV;
 };
