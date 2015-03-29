@@ -16,7 +16,7 @@ const
     }
 
     var dataJson = JSON.parse(data.toString());
-    console.log(dataJson);
+    console.log('SENDING RESPONSE FOR REQUEST : GET /medicineService');
     res.json(dataJson);
   });
 });
