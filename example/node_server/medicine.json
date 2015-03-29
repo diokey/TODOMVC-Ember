@@ -1,0 +1,26 @@
+{"pagingAndSorting": {
+   "pageSize": 2,
+   "ascending": false,
+   "pageNumber": 5
+  },
+  "list": [{
+    "recommendedDosage": "400mg Tablets",
+    "active": true,
+    "name": "ANT-Norfloxacin",
+    "id": "FE102EDA-984A-41A3-B9C8-3E13B98A864A",
+    "identifiers": []
+  },{
+     "recommendedDosage": "",
+     "active": true,
+     "name": "ANT-Penicillin Injection",
+     "id": "F8DE6184-0F91-4DA9-A611-2B78F4B85D25",
+     "identifiers": []
+  },{
+     "recommendedDosage": "",
+     "active": true,
+     "name": "ANT-Spectinomycin",
+     "id": "73205995-0CF2-4744-A856-F74B81355661",
+     "identifiers": []
+  }],
+  "fullListSize": 574
+}
