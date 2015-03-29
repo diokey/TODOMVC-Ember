@@ -1,0 +1,16 @@
+table {
+  width : 80%;
+  margin : auto;
+  border-collapse : collapse;
+}
+
+table td, table tr {
+  border : 1px solid black;
+}
+
+table th {
+  font-weight : bold;
+  color : black;
+  background-color : #cecece;
+  border : 2px solid black;
+}
